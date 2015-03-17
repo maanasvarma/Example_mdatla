@@ -1,4 +1,6 @@
 # Auto detect text files and perform LF normalization
+# Hello does this work
+# no
 * text=auto
 
 # Custom for Visual Studio
